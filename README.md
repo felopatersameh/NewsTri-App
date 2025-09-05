@@ -1,16 +1,29 @@
-# news_app
+# 📰 Flutter News App
 
-A new Flutter project.
+<p align="center"> 
+  <img width="800" height="600" alt="logo" src="https://github.com/user-attachments/assets/e6545232-aaa0-499b-adc2-33c79773752d" />
 
-## Getting Started
+</p>
+A clean and modern Flutter application that displays the latest news using the NewsAPI Built with a fully structured BLoC architecture, the app supports dynamic theme switching (Light/Dark Mode), local storage for theme preference, smooth animations, and a responsive UI.
 
-This project is a starting point for a Flutter application.
+##Features
 
-A few resources to get you started if this is your first Flutter project:
+-🔄 Fetch Live News using Dio and NewsAPI
+-🌙 Dark & Light Theme Support with persistent storage using SharedPreferences
+-🧠 State Management using BLoC/Cubit architecture
+-🌐 Responsive UI compatible with all screen sizes
+-⏱️ Animated Splash Screen with custom loading animations
+-💬 Animated Welcome Texts using animated_text_kit
+-📍 Smooth Page Indicators for carousel screens
+-🔗 Open News in Browser via url_launcher
+-🌍 Internationalization & Date Formatting using intl
+-🚫 Error Handling with user-friendly messages for network failures or API issues
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Images
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"> 
+  <img width="1280" height="720" alt="6" src="https://github.com/user-attachments/assets/a75d3e6b-2983-45f1-af4c-a409255fe8e4" />
+  
+  <img width="1280" height="720" alt="7" src="https://github.com/user-attachments/assets/bf4ae99b-ae85-4a0d-a3cc-6c68505d62fa" />
+
+</p>
