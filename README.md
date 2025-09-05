@@ -1,10 +1,11 @@
 # 📰 Flutter News App
 
-<p align="center"> 
-  <img width="800" height="600" alt="logo" src="https://github.com/user-attachments/assets/e6545232-aaa0-499b-adc2-33c79773752d" />
 
-</p>
 A clean and modern Flutter application that displays the latest news using the NewsAPI Built with a fully structured BLoC architecture, the app supports dynamic theme switching (Light/Dark Mode), local storage for theme preference, smooth animations, and a responsive UI.
+
+<p align="center"> 
+  <img width="800" height="600" alt="logo" src="https://github.com/user-attachments/assets/ab95e018-2789-4c7e-a459-e564b933c5ea" />
+</p>
 
 ##Features
 
